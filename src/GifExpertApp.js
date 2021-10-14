@@ -20,6 +20,7 @@ export const GifExpertApp = () =>{
         <h2>GifExpertApp</h2>
         <AddCategory setCategories={setCategories}/>
         <hr />
+      <img src="https://mega.nz/file/XBBhDaJQ#zkvTPbo52uyyxMM93swgQWgKEorfBUcOQCI1RkElUaw" alt=video/>
         <ol>
           {
             categories.map(category =>(
